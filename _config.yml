@@ -48,8 +48,7 @@ author:
       url:
 home:
   section1: <h1>Kimkideok's Blog</h1>
-  section2: <h2>Just compiled my working logs in my university days. 
-  대학시절의 개발 및 과제 정리</h2>
+  section2: <h2>Just compiled my working logs in my university days.</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/Kimkideok-Duke" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
