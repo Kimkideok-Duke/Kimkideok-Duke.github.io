@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: https://github.com/Kimkideok-Duke/Kimkideok-Duke.github.io.git # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Simple Texture
 description: "A gem-based responsive simple texture styled Jekyll theme."
@@ -33,13 +33,13 @@ author:
   email:
   social_links:
     - name: facebook
-      url:
+      url: https://www.facebook.com/kideok.kim.982
     - name: github
       url: https://github.com/yizeng/jekyll-theme-simple-texture
     - name: instagram
       url:
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/kideok-kim-37528118a/
     - name: stackoverflow
       url:
     - name: twitter
